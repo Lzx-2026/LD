@@ -24,8 +24,8 @@ TocOpen = false
 fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
 
 [params.homeInfoParams]
-Title = "你好，我是你的名字"
-Content = "XX 专业本科生，正在学习 Linux 与系统管理。"
+Title = "你好，我是廖梓贤"
+Content = "电力系统专业本科生，正在学习 Linux 与系统管理。"
 
 
 [[menu.main]]
