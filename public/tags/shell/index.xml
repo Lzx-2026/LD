@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shell on Lzx个人博客</title>
+    <link>http://localhost:1313/LD/tags/shell/</link>
+    <description>Recent content in Shell on Lzx个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/LD/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell脚本编程基础</title>
+      <link>http://localhost:1313/LD/posts/experiment-3/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LD/posts/experiment-3/</guid>
+      <description>&lt;p&gt;实验内容：编写了简单的 Shell 脚本，实现了自动备份功能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

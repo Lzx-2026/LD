@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lzx个人博客</title>
+    <link>http://localhost:1313/LD/</link>
+    <description>Recent content on Lzx个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/LD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/LD/about/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LD/about/</guid>
+      <description>&lt;h2 id=&#34;个人简介&#34;&gt;个人简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;姓名&lt;/strong&gt;：廖梓贤
+&lt;strong&gt;专业&lt;/strong&gt;：电力系统&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;个人照片&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/LD/images/profile.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我是一名本科生，正在学习Linux系统管理。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shell脚本编程基础</title>
+      <link>http://localhost:1313/LD/posts/experiment-3/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LD/posts/experiment-3/</guid>
+      <description>&lt;p&gt;实验内容：编写了简单的 Shell 脚本，实现了自动备份功能。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux用户与权限管理</title>
+      <link>http://localhost:1313/LD/posts/experiment-2/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LD/posts/experiment-2/</guid>
+      <description>&lt;p&gt;实验内容：掌握了如何使用 chmod 和 chown 修改文件权限。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux文件管理实验</title>
+      <link>http://localhost:1313/LD/posts/experiment-1/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LD/posts/experiment-1/</guid>
+      <description>&lt;p&gt;这是我在Linux课程中做文件管理实验的记录。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
