@@ -2,7 +2,7 @@
 title: "Shell脚本编程基础"
 date: 2026-10-25
 draft: false
-categories: ["Linux课程"]
+categories: ["Shell脚本"]
 tags: ["Shell", "脚本"]
 ---
 ## 一、 实验目的
