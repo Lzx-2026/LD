@@ -2,7 +2,7 @@
 title: "Linux文件管理实验"
 date: 2026-10-20
 draft: false
-categories: ["Linux课程"]
+categories: ["文件管理"]
 tags: ["文件管理", "命令行"]
 ---
 ## 一、 实验目的
