@@ -2,7 +2,7 @@
 title: "Linux用户与权限管理"
 date: 2026-10-22
 draft: false
-categories: ["Linux课程"]
+categories: ["权限管理"]
 tags: ["权限", "用户"]
 ---
 ## 一、 实验目的
